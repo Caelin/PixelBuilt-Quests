@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="PixelBuilt-Quests_api" target="1.8" />
       <module name="PixelBuilt-Quests_main" target="1.8" />
       <module name="PixelBuilt-Quests_test" target="1.8" />
     </bytecodeTargetLevel>
